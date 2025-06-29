@@ -33,7 +33,7 @@ Using historical stock data from the S&P 500 (2019–2021), this analysis invest
    - **2nd Component**: Separated resilient Consumer Defensive stocks from more volatile sectors.
    - **3rd Component**: Highlighted the outperformance of large-cap tech firms (Amazon, Meta, Microsoft, etc.).
 
-## 📈 Results Summary
+## Results Summary
 
 | Portfolio | Annualized Return | Volatility | Sharpe Ratio | Max Drawdown |
 |-----------|-------------------|------------|---------------|---------------|
